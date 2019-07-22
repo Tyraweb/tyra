@@ -1,0 +1,23 @@
+Popup windows are always disturbing, but if you get a warning out of the blue that you might have a security problem it's doubly disturbing.
+
+Vendors of what purports to be security software are taking advantage of nervous users to trick them into downloading their software, or at least visiting their web site.
+
+Ever see windows like the top one pop up while you were surfing on the web ?
+
+It may look like a warning from within your computer, but is is just an advertisement. Some times they have a faint "advertisement" in the bottom-right corner, but the point of the design is to mislead the user into thinking that there is a problem and that clicking "Yes" will help with it.
+
+Other windows may pop up from time to time like the bottom two. These are downloaded onto your screen by a program called "Messenger Service" that may be running in the background on your computer. It is not to be confused with "Window's Messenger", a popular communications program, they are not related. Messenger Service can easily be turned off so that this sort of thing stops bothering you.
+
+Clicking anywhere on this sort of ad, whether on the phony "Yes", "No" or "OK" buttons or anywhere else, takes you to the vendor web site where you are either prompted to download their product or now, more often than not, the download and installation begins on your computer without your further approval. Once that happens, you are infected with a program designed to repeatedly strike fear into the user's heart by sending up numerous ficticious warnings about your computer.
+
+The ONLY way to close these phoney warnings is to click on the X in the top right corner of the popup window. I repeat, THE ONLY WAY!!! Clicking ANYWHERE within the popup (not only on the buttons) is like clicking the Yes or OK button. The entire popup window is programmed to be a click of approval, even the No button. Again, click on the X.
+
+We won't get into whose product it is or if the product is worth the time of day. The interesting thing is that you can design a popup web page to resemble a dialog box that a user might encounter if they actually have a Windows problem. More realistic ones than the one above have been created for more dishonest ends, such as simulating program menus.
+
+How do you recognize that a window is a popup web ad and not what it appears to be? This can be difficult.
+
+First, even if a window presents a dire message, don't panic. Note that if you look at the title bar and status bar (the top and bottom of the window) you can tell that it is an Internet Explorer window. This is a clue, but not conclusive proof that the window is not a security warning. It is possible that Windows, or a third party product like your anti virus software, could use such a window for legitimate purposes, but I'd call it a long shot. At this point you should look on the popup window presumptively as an advertisement. If you're still curious though, right-click on it and select properties. You should be able to see the site from which it came. A real dialog box from Windows within your computer would have a non-standard address starting with something like 'res:' where as a web ad will have a real web address starting with http:.
+
+The important thing for you to do is not to react quickly to messages that come up out of nowhere, but to stop and scrutinize them. At this point you're already ahead of the game.
+
+If you do find something that you are suspicious about and want a second opinion, write down the details in the popup window, click on the X and then write or call me and I will be happy to help you decide what to do.
